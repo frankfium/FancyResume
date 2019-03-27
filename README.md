@@ -2,10 +2,13 @@
 **This is my personal resume HTML/CSS template created in bootstrap**
 ```
 - This sample was created for my friend and can be viewed at 
-[here](http://www.michaeldimino.dx.am/)
-- My website (an altered version)
-- [here](http://www.frankfiumara.dx.am/)
 ```
+- [here](http://www.michaeldimino.dx.am/)
+```
+- My website (an altered version)
+```
+- [here](http://www.frankfiumara.dx.am/)
+
 **Packages Used**
 - Particles.js
 - wow.js
