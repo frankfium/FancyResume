@@ -7,7 +7,7 @@
 ```
 - My website (an altered version)
 ```
-- [here](http://www.frankfiumara.ml/)
+- [here](http://www.frankfium.ml/)
 
 **Packages Used**
 - Particles.js
